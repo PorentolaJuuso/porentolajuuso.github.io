@@ -1,3 +1,3 @@
 function buttonFunction(){
-    document.getElementById("buttonCall").innerHTML = "Hello world"
+    document.getElementById("buttonCall").innerHTML = Math.random(); 
 }

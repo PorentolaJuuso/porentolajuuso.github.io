@@ -11,6 +11,7 @@ body {
     justify-content: center;
     margin: 1em auto;
 }
+
 ul {
     list-style-type: none;
     padding: 0;
@@ -18,8 +19,6 @@ ul {
     color: #57de09;
     font-size: 1em;
 }
-
-
 
 .image-container img {
     width: 400px; /* or any small size */
@@ -40,11 +39,7 @@ h1, h2 {
     color: #eb09c5;
     margin: 0.5em 0;
 }
-.lista {
-    color: #0b3dff;
-    font-size: 1.2em;
-    margin: 0.5em 0;
-}
+
 a {
     font-size: larger;
     color: #0077cc;
@@ -74,3 +69,4 @@ ul li a {
 ul li a:hover {
   background-color: #111111;
 }
+
